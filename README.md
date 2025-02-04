@@ -86,8 +86,8 @@
    local Window = Elemental:New({
          UITitle = string.upper("elemental"),
          DefaultTheme = "Dark" -- or Light
-   })
-  ```
+   })```
+
 ### Options
 1. Create a Tab
    ```lua
