@@ -81,6 +81,7 @@
 ### Usage
 
 1. In order to get started with ElementalUI, run the following script:
+
    ```lua
    local Elemental = loadstring(game:HttpGet("https://raw.githubusercontent.com/spxnso/ElementalUI/refs/heads/main/source.lua"))()
    local Window = Elemental:New({
@@ -91,10 +92,11 @@
 
 ### Options
 1. Create a Tab
+
    ```lua
    local Tab = Window:Tab("Main")
    ```
-2. Read the example code
+3. Read the example code
 
 ## License
 
